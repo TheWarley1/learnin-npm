@@ -1,0 +1,24 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "just fafo ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWarley1/learnin-npm.git"
+  },
+  "author": "TheWarley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheWarley1/learnin-npm/issues"
+  },
+  "homepage": "https://github.com/TheWarley1/learnin-npm#readme",
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "superheroes": "^3.0.0"
+  }
+}
